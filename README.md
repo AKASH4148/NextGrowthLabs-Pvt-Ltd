@@ -11,5 +11,5 @@ PART 1: <br>
       3) Incomplete - 100 %<br>
       
 PART 2: <br>
-      1) Incomplete - 80 % completed but failed to get expected outcome<>
+      1) Incomplete - 80 % completed but failed to get expected outcome<br>
       2) Honestly, failed to solve.<br>
